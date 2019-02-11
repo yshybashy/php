@@ -1,5 +1,5 @@
 <?php
 
-echo "OI JANE MEU <strong>AMOdasd</strong>";
+echo "Ola mundo";
 
 ?>
